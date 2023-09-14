@@ -1,0 +1,21 @@
+#include <Arduino.h>
+#line 1 "C:\\Users\\marku\\OneDrive\\Dokumenter\\BIELSYS - Elektronisk Systemingeniør\\INGT1002\\VSCODETEST\\.vscode\\arduinoSimpleTest\\arduinoSimpleTest.ino"
+// C++ code
+//
+#line 3 "C:\\Users\\marku\\OneDrive\\Dokumenter\\BIELSYS - Elektronisk Systemingeniør\\INGT1002\\VSCODETEST\\.vscode\\arduinoSimpleTest\\arduinoSimpleTest.ino"
+void setup();
+#line 8 "C:\\Users\\marku\\OneDrive\\Dokumenter\\BIELSYS - Elektronisk Systemingeniør\\INGT1002\\VSCODETEST\\.vscode\\arduinoSimpleTest\\arduinoSimpleTest.ino"
+void loop();
+#line 3 "C:\\Users\\marku\\OneDrive\\Dokumenter\\BIELSYS - Elektronisk Systemingeniør\\INGT1002\\VSCODETEST\\.vscode\\arduinoSimpleTest\\arduinoSimpleTest.ino"
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}

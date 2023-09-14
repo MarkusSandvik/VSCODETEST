@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\marku\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\marku\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\marku\\OneDrive\\Dokumenter\\BIELSYS - Elektronisk Systemingeniør\\INGT1002\\VSCODETEST\\.arduino\\output\\sketch\\arduinoSimpleTest.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
